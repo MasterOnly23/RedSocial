@@ -1,0 +1,2 @@
+# RedSocial
+RedSocial con Django
